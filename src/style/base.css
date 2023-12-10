@@ -32,6 +32,7 @@ body {
     color: var(--cor-texto-principal);
     background: var(--gradiente);
     font-family: var(--fonte-textos);
+    overflow: hidden;
 }
 
 main {
